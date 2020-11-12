@@ -38,7 +38,6 @@ The second mode is "Auto Mode"
 
 as you can expect this one automatically converts the file if it has a "decoder" for it, not a lot of files are currently supported, but the important ones so far that are include:
 
-- Cubemain.bin
 - Armor.bin
 - Weapons.bin
 - Misc.bin
