@@ -18,7 +18,7 @@ The format needs to be of the following:
 - 'c' = signed char  (1 byte)
 - 'b' = byte  (1 byte)
 - 's' = short  (2 bytes)
-- 'w' = wide short  (2 bytes)
+- 'w' = unsigned short  (2 bytes)
 - 'i' = int  (4 bytes)
 - 'u' = unsigned int  (4 bytes)
 - 'aXX' = char array where XX is the amount of characters in hex (N bytes)
